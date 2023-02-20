@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-hw-002",
+    "slug": "react-native-hw-002",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-hw-002"
+}
