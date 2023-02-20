@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e18550d7-ee4e-4a36-afa0-f2ea6f2dceb3"
+      }
+    },
+    "owner": "pili_ou77"
   },
   "name": "react-native-hw-002"
 }
